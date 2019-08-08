@@ -1,0 +1,15 @@
+h1 {
+    border-width: 1px;
+    border-top-style: dashed;
+    border-color: lightslategray;
+    border-bottom-style: solid;
+    padding: 20px;
+    text-align: center;
+    color: #4a4949;
+}
+nav {
+  width: 100%;
+}
+.text-center {
+  text-align: center;
+}
